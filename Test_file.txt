@@ -1,3 +1,5 @@
 Just for test and cats =)
 
 Add 2 new rows for pull test
+
+Add new row for GIT gui
